@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Psynosure 
 - 👀 I’m interested in Webdesign, graphics design.
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI with Python
 - 💞️ I’m looking to collaborate on several ways to make my experience better
 - 📫 How to reach me akadriade@gmail.com
 
